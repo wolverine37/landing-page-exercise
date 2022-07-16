@@ -42,6 +42,7 @@ a, .secondary { font-size: 18px;
 } 
  
 .hero {
+    padding-top: 60px;
     display: flex;
     flex-wrap: wrap; 
     justify-content: space-between; 
